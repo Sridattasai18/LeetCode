@@ -1,20 +1,14 @@
 class Solution:
     def maxProduct(self, n: int) -> int:
+        max1 = max2 = 0
 
-        first = 0
-
-        second = 0
-
-        while n > 0:
-
-            digit = n % 10
-
-            if digit >= first:
-                second = first
-                first = digit
-            elif digit > second:
-                second = digit
-
+        while n:
+            d = n % 10
+            if d >= max1:
+                max2 = max1
+                max1 = d
+            elif d > max2:
+                max2 = d
             n //= 10
 
-        return first * second
+        return max1 * max2
