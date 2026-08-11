@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridattasai18/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/Sridattasai18/LeetCode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
