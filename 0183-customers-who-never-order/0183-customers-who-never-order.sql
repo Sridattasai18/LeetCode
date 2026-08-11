@@ -1,7 +1,5 @@
-# Write your MySQL query statement below
-SELECT 
-    name AS Customers
-FROM Customers AS c
-LEFT JOIN Orders AS o
-ON c.id = o.customerId
-WHERE o.customerId IS NULL;
+SELECT name as customers
+FROM customers
+LEFT JOIN orders
+ON customers.id = orders.customerId
+WHERE orders.customerId IS NULL;
