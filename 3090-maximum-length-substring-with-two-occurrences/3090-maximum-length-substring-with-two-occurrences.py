@@ -1,8 +1,11 @@
 class Solution:
     def maximumLengthSubstring(self, s: str) -> int:
-        n, res = len(s), 0
-        for i in range(n):
-            for j in range(i + 1, n + 1):
-                c = collections.Counter(s[i: j])
-                if not any(v > 2 for v in c.values()): res = max(res, j - i)
+        count = {}
+        i = res = 0
+        for j, c in enumerate(s):
+            count[c] = count.get(c, 0) + 1
+            while count[c] > 2:
+                count[s[i]] -= 1
+                i += 1
+            res = max(res, j - i + 1)
         return res
