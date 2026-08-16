@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sridattasai18/LeetCode/tree/master/0075-sort-colors) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridattasai18/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sridattasai18/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Sridattasai18/LeetCode/tree/master/3731-find-missing-elements) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sridattasai18/LeetCode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Sridattasai18/LeetCode/tree/master/0075-sort-colors) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridattasai18/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Sridattasai18/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -45,8 +47,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sridattasai18/LeetCode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Sridattasai18/LeetCode/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sridattasai18/LeetCode/tree/master/0011-container-with-most-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sridattasai18/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sridattasai18/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
