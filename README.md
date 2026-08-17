@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Sridattasai18/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Sridattasai18/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0607-sales-person](https://github.com/Sridattasai18/LeetCode/tree/master/0607-sales-person) |
+| [0620-not-boring-movies](https://github.com/Sridattasai18/LeetCode/tree/master/0620-not-boring-movies) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Sridattasai18/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 ## String
 |  |
