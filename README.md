@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sridattasai18/LeetCode/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/Sridattasai18/LeetCode/tree/master/0412-fizz-buzz) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sridattasai18/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Sridattasai18/LeetCode/tree/master/0412-fizz-buzz) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sridattasai18/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sridattasai18/LeetCode/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Sridattasai18/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
