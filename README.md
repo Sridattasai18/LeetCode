@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sridattasai18/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sridattasai18/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Sridattasai18/LeetCode/tree/master/0136-single-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Sridattasai18/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridattasai18/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sridattasai18/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Sridattasai18/LeetCode/tree/master/3731-find-missing-elements) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sridattasai18/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Sridattasai18/LeetCode/tree/master/0412-fizz-buzz) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Sridattasai18/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 ## Dynamic Programming
 |  |
 | ------- |
