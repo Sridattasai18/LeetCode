@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sridattasai18/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sridattasai18/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Sridattasai18/LeetCode/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/Sridattasai18/LeetCode/tree/master/0812-largest-triangle-area) |
 | [2235-add-two-integers](https://github.com/Sridattasai18/LeetCode/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sridattasai18/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sridattasai18/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sridattasai18/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sridattasai18/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Sridattasai18/LeetCode/tree/master/0136-single-number) |
+| [0812-largest-triangle-area](https://github.com/Sridattasai18/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sridattasai18/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridattasai18/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sridattasai18/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sridattasai18/LeetCode/tree/master/0258-add-digits) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Sridattasai18/LeetCode/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Sridattasai18/LeetCode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
