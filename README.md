@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sridattasai18/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sridattasai18/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Sridattasai18/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sridattasai18/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/Sridattasai18/LeetCode/tree/master/0812-largest-triangle-area) |
 | [2235-add-two-integers](https://github.com/Sridattasai18/LeetCode/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sridattasai18/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sridattasai18/LeetCode/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sridattasai18/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridattasai18/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sridattasai18/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Sridattasai18/LeetCode/tree/master/3731-find-missing-elements) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sridattasai18/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sridattasai18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sridattasai18/LeetCode/tree/master/0136-single-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sridattasai18/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/Sridattasai18/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sridattasai18/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Sridattasai18/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
