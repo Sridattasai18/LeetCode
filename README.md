@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sridattasai18/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sridattasai18/LeetCode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Sridattasai18/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sridattasai18/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sridattasai18/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sridattasai18/LeetCode/tree/master/0070-climbing-stairs) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sridattasai18/LeetCode/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/Sridattasai18/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sridattasai18/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sridattasai18/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sridattasai18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Sridattasai18/LeetCode/tree/master/0812-largest-triangle-area) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Sridattasai18/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
