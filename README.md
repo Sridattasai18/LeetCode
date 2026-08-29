@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridattasai18/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/Sridattasai18/LeetCode/tree/master/0812-largest-triangle-area) |
 | [2235-add-two-integers](https://github.com/Sridattasai18/LeetCode/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/Sridattasai18/LeetCode/tree/master/2469-convert-the-temperature) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sridattasai18/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sridattasai18/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3945-digit-frequency-score](https://github.com/Sridattasai18/LeetCode/tree/master/3945-digit-frequency-score) |
