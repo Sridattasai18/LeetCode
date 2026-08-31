@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridattasai18/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/Sridattasai18/LeetCode/tree/master/0812-largest-triangle-area) |
 | [2235-add-two-integers](https://github.com/Sridattasai18/LeetCode/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Sridattasai18/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Sridattasai18/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Sridattasai18/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sridattasai18/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sridattasai18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Sridattasai18/LeetCode/tree/master/0075-sort-colors) |
+| [2396-strictly-palindromic-number](https://github.com/Sridattasai18/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sridattasai18/LeetCode/tree/master/0048-rotate-image) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Sridattasai18/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
