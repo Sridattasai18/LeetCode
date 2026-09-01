@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [Code Sync](https://github.com/Sridattasai18/Code Sync-2.0)
+A collection of LeetCode questions to ace the coding interview! - Created using [Code Sync](https://github.com/Sridattasai18/Code_Sync)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
