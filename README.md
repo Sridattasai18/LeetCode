@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sridattasai18/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sridattasai18/LeetCode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridattasai18/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridattasai18/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sridattasai18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sridattasai18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Sridattasai18/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Sridattasai18/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Sridattasai18/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sridattasai18/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sridattasai18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sridattasai18/LeetCode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Sridattasai18/LeetCode/tree/master/0049-group-anagrams) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridattasai18/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sridattasai18/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sridattasai18/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sridattasai18/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Sridattasai18/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Sridattasai18/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sridattasai18/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Sridattasai18/LeetCode/tree/master/0412-fizz-buzz) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sridattasai18/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
