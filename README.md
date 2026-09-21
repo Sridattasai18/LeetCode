@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sridattasai18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Sridattasai18/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sridattasai18/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Sridattasai18/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sridattasai18/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Sridattasai18/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Sridattasai18/LeetCode/tree/master/0412-fizz-buzz) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sridattasai18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Sridattasai18/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sridattasai18/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sridattasai18/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sridattasai18/LeetCode/tree/master/0344-reverse-string) |
 | [2396-strictly-palindromic-number](https://github.com/Sridattasai18/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
