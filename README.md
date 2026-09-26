@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sridattasai18/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sridattasai18/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sridattasai18/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Sridattasai18/LeetCode/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/Sridattasai18/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sridattasai18/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Sridattasai18/LeetCode/tree/master/0412-fizz-buzz) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sridattasai18/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Sridattasai18/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Sridattasai18/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Sridattasai18/LeetCode/tree/master/0389-find-the-difference) |
 ## Simulation
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sridattasai18/LeetCode/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Sridattasai18/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
